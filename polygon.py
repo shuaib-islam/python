@@ -30,3 +30,9 @@ board.forward(100)
 board.left(90)
 
 turtle.done()
+
+#star
+board.right(90)
+board.forward(100)
+board.pendown()
+board.forward(100)
